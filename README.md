@@ -16,3 +16,8 @@ This project demonstrates how to host a static website using Amazon S3.
 
 ## Outcome
 Serverless static website deployed using Amazon S3.
+## Live Demo
+
+This project was deployed using Amazon S3 Static Website Hosting in an AWS sandbox environment.
+
+Note: The sandbox environment may reset, so the live URL may not always be active.
